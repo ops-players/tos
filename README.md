@@ -1,4 +1,5 @@
-# OPS Players
+# tos
+Terms of Service / Terms of Use
 
 The following shall be the terms of use of the private slack channel ops-players.
 
